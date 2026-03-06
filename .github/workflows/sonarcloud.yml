@@ -72,7 +72,7 @@ jobs:
         with:
           args: >
             -Dsonar.projectKey=VictorLemosFr_Quality-Gate-Hands-On
-            -Dsonar.organization=ldcss
+            -Dsonar.organization=victorlemosfr
             -Dsonar.sources=src
             -Dsonar.tests=src
             -Dsonar.test.inclusions=**/*.spec.ts
